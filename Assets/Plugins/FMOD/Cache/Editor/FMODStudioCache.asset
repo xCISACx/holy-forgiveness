@@ -1,0 +1,855 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8110224210825484489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Cubes/Sliding
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Cubes/Sliding
+  guid: 1b56f58128e8994b82e24fd3fde8a3d4
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 69055
+--- !u!114 &-8098342644270626980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kari/Kari Grunt
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kari/Kari Grunt
+  guid: 6e17c89d11e7984092fe91a6d7868f54
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4529
+--- !u!114 &-7180908632509169192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kari/Bow Drawing
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kari/Bow Drawing
+  guid: 01e5383ee958db42908ea756056039ac
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1477
+--- !u!114 &-6611802512152814637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound 2
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound 2
+  guid: 2b652c6e1bfe1b4b89f5c82f7d7dfd1f
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2704
+--- !u!114 &-6147819840240600047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Pillars/Big Pillar Fall
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Pillars/Big Pillar Fall
+  guid: 17be14acc9ad5d479989045afa355c5c
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2161
+--- !u!114 &-5227094489949204012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound Deactivation 3
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound Deactivation 3
+  guid: c4e3a1f3473d3b458d5a27894bb88b5f
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2493
+--- !u!114 &-5022441139619487836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Lever/Lever
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Lever/Lever
+  guid: 61a7f94406eeb44dbbd542b13bfea346
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2443
+--- !u!114 &-4763385987621243679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kuro/Jump
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kuro/Jump
+  guid: 5ee4a36fb513ed429be62efbf3de07fc
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 250
+--- !u!114 &-4449367466039190885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Lava/Lava Bubbling
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Lava/Lava Bubbling
+  guid: 22a776ee5fb6f94f866bd00cfba9b1bd
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 200000
+--- !u!114 &-4121905603007673449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kari/Arrow Impact
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kari/Arrow Impact
+  guid: 5a4fbcb796c7bc44970dfed3e675ac47
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 168
+--- !u!114 &-4032778443166725261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Bridge/Bridge
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Bridge/Bridge
+  guid: c3879bff93ebc34eb84a931b466d63ea
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1767
+--- !u!114 &-2716754592015506314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../FMOD Library/Holy2/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637173064806978640
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 2282
+  Exists: 1
+--- !u!114 &-2164287852941557158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kari/Bow Shooting
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kari/Bow Shooting
+  guid: f05f873cebf98b4dabcc4ace308fb326
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 290
+--- !u!114 &-1822195051418976320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kari/Arrow Explosion
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kari/Arrow Explosion
+  guid: d662947f07e6a94882ccd9909ae89293
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1741
+--- !u!114 &-1753075433760114871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound Deactivation 5
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound Deactivation 5
+  guid: a5d78bdcf784f64f84dda6d3eb7d00c8
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2712
+--- !u!114 &-1532273111837633024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound Deactivation 4
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound Deactivation 4
+  guid: 65ebada5546c5f48a4539f63b6f2cfc7
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2554
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -2716754592015506314}
+  - {fileID: 1083622224633094673}
+  EditorEvents:
+  - {fileID: -7180908632509169192}
+  - {fileID: -6147819840240600047}
+  - {fileID: -8110224210825484489}
+  - {fileID: 9169625481555375087}
+  - {fileID: -4449367466039190885}
+  - {fileID: -6611802512152814637}
+  - {fileID: 7968102391577279480}
+  - {fileID: 2231959878753134705}
+  - {fileID: 6539554653253456142}
+  - {fileID: 303010620272306899}
+  - {fileID: 5901833783867244565}
+  - {fileID: -4121905603007673449}
+  - {fileID: -4763385987621243679}
+  - {fileID: 2214368908409326072}
+  - {fileID: -5022441139619487836}
+  - {fileID: 1903866395258398130}
+  - {fileID: -1532273111837633024}
+  - {fileID: -8098342644270626980}
+  - {fileID: 4074562029565849394}
+  - {fileID: 2110455396403624352}
+  - {fileID: -1753075433760114871}
+  - {fileID: -4032778443166725261}
+  - {fileID: -5227094489949204012}
+  - {fileID: -1822195051418976320}
+  - {fileID: 7329571213623991330}
+  - {fileID: 4024996888680425793}
+  - {fileID: 8332799386942833017}
+  - {fileID: 8808489887173796774}
+  - {fileID: 1164369907634759729}
+  - {fileID: -2164287852941557158}
+  - {fileID: 801296434800310319}
+  - {fileID: 1355285367820857680}
+  - {fileID: 3860980010860563871}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 1083622224633094673}
+  StringsBanks:
+  - {fileID: -2716754592015506314}
+  stringsBankWriteTime: 637173064806978640
+  cacheVersion: 3
+--- !u!114 &303010620272306899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound 5
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound 5
+  guid: 4415325d0f9ea94e9cd312cbe9f60946
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2712
+--- !u!114 &801296434800310319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kuro/Key Using 2
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kuro/Key Using 2
+  guid: f7ba4bece3c1ee4ea5dd6985aab80a0e
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 605
+--- !u!114 &1083622224633094673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../FMOD Library/Holy2/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637173064806928587
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &1164369907634759729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Yuuta/Yuuta Grunt
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Yuuta/Yuuta Grunt
+  guid: ef98bc55a76a6f4280556a49bdf82053
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4529
+--- !u!114 &1355285367820857680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Pillars/Pillar Fall
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Pillars/Pillar Fall
+  guid: fb77f99f683f8f408af2498280c993b8
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2161
+--- !u!114 &1903866395258398130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Lava/Lava Splash
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Lava/Lava Splash
+  guid: 62920ab2b106084789061bed2e3806cc
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2500
+--- !u!114 &2110455396403624352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound Deactivation 2
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound Deactivation 2
+  guid: 8b9c69c390640547b24b5c1fb8d89f62
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2704
+--- !u!114 &2214368908409326072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM
+  guid: 601285ce2b9d87468fcd6bfe7db65db9
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 55000
+--- !u!114 &2231959878753134705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Stingers/Stinger
+  m_EditorClassIdentifier: 
+  Path: event:/Stingers/Stinger
+  guid: 2e7aa1d4f6ec0b46a7d0db1ef4c7f44d
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3814
+--- !u!114 &3860980010860563871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Yuuta/Yuuta Box Pushing
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Yuuta/Yuuta Box Pushing
+  guid: fdd724c47ab93a4a857086a4dd5a88fa
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13000
+--- !u!114 &4024996888680425793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound 4
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound 4
+  guid: e842acb29c664e45a2702f02e8f196e2
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2554
+--- !u!114 &4074562029565849394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound 3
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound 3
+  guid: 85730782e4241c4d81f7c02333b91f33
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2493
+--- !u!114 &5901833783867244565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Stingers/Fail Sound
+  m_EditorClassIdentifier: 
+  Path: event:/Stingers/Fail Sound
+  guid: 527f37193bdb5c47831df4b89f5aa60a
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2827
+--- !u!114 &6539554653253456142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound Deactivation 1
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound Deactivation 1
+  guid: 30df611b9537134e8c1e0df28c86a86f
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2652
+--- !u!114 &7329571213623991330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Gems/Gem Sound 1
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Gems/Gem Sound 1
+  guid: d6cc958256207b4aba6ccb6eb06aaf25
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2652
+--- !u!114 &7968102391577279480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Stingers/Stinger Reverse
+  m_EditorClassIdentifier: 
+  Path: event:/Stingers/Stinger Reverse
+  guid: 2d544c889ff3e647972129c378024d73
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3814
+--- !u!114 &8332799386942833017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Kuro/Kuro Grunt
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Kuro/Kuro Grunt
+  guid: ec59e4b191490247bb15da657bce83fa
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4529
+--- !u!114 &8808489887173796774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Environment/Door/Door Opening 2
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Environment/Door/Door Opening 2
+  guid: ed9c7e9bc6919a458097e2e548c1fa6b
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 71555
+--- !u!114 &9169625481555375087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Characters/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Characters/Footsteps
+  guid: 1ead02412c8f7c4fa983b89d6d0729a3
+  Banks:
+  - {fileID: 1083622224633094673}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4000
